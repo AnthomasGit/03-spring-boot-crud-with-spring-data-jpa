@@ -1,6 +1,5 @@
 package com.Thomas.Project2.demo.service;
 
-import com.Thomas.Project2.demo.dao.EmployeeDAO;
 import com.Thomas.Project2.demo.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
